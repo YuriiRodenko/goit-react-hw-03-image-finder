@@ -9,7 +9,7 @@ import SearhBar from './Searchbar/Searchbar';
 import ImageGallery from './ImageGallery/ImageGallery';
 import LoadMoreButton from './Button/Button';
 import { AppContainer } from './App.styled';
-import fetchApi from '../components/Service/ApiService';
+import fetchApi from '../utils/Service/ApiService';
 import Spiner from './Loader/Loader';
 import Modal from './Modal/Modal';
 
